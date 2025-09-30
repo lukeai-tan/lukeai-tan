@@ -8,9 +8,6 @@ I'm looking to expand my knowledge in cloud computing and AI, and open to collab
 - PayMeBack - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
 - [Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital) - Arknights-inspired Tower Defense Game built with Godot
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeai-tan&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,GDScript)
-
 ### 🛠 Tech Stack
 
 **Languages:**  
