@@ -1,16 +1,31 @@
-## Hi there 👋
+# Luke A. Tan
+## About Me
+Hey! I'm Luke, an aspiring software engineer and game developer with a stronger focus on backend development, and a growing curiosity about AI. I also enjoy coding challenges and learning new langauges.\
+I'm looking to expand my knowledge in cloud computing and AI, and open to collaborating on game dev or AI projects. Feel free to reach out via Github.
 
-<!--
-**lukeai-tan/lukeai-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- [Maskerade](https://github.com/lukeai-tan/maskerade) - AI-powered privacy filter for faces and sensitive information
+- PayMeBack - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
+- [Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital) - Arknights-inspired Tower Defense Game built with Godot
 
-Here are some ideas to get you started:
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeai-tan&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,GDScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?logo=godot-engine&logoColor=white)
+
+**Tools & Platforms:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+**Game Engine:**  
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)
