@@ -14,6 +14,7 @@ I'm looking to expand my knowledge in cloud computing and AI, and open to collab
 </details>
 
 ## Projects
+- [Bartender](https://github.com/lukeai-tan/bartender) - Spotify Playlist Transition Engine
 - [Maskerade](https://github.com/lukeai-tan/maskerade) - Privacy filter for faces and sensitive information
 - PayMeBack - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
 - [Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital) - Arknights-inspired Tower Defense Game built with Godot
