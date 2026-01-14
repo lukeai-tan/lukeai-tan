@@ -1,7 +1,7 @@
 # Luke A. Tan
 ## About Me
 Hey! I'm Luke, an aspiring software engineer and game developer with a stronger focus on backend development, and a growing curiosity about AI. I also enjoy coding challenges and learning new langauges.\
-I'm looking to expand my knowledge in cloud computing and AI, and open to collaborating on game dev or AI projects. Feel free to reach out via Github.
+I'm looking to expand my knowledge in cloud computing and AI, and open to collaborating on SWE or AI projects. Feel free to reach out via Github.
 
 ## Hackathons
 <details>
