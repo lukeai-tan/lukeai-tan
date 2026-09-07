@@ -5,6 +5,14 @@ I'm looking to expand my knowledge in cloud computing and AI, and open to collab
 
 ## Hackathons
 <details>
+  <summary>TikTok TechJam 2026</summary>
+
+**Project:** [Transformer Layer GPU Kernel](https://devpost.com/software/git-commit-m-qa?ref_content=user-portfolio&ref_feature=in_progress) ([GitHub](https://github.com/lukeai-tan/tiktok-techjam-2026))  
+**Description:** Optimized Transformer inference using fused Triton attention kernels and shape-aware execution paths.  
+**Tech:** Python, PyTorch, Triton, CUDA  
+
+</details>
+<details>
   <summary>TikTok TechJam 2025</summary>
   
 **Project:** [Maskerade](https://devpost.com/software/maskerade-6pb03f?ref_content=my-projects-tab&ref_feature=my_projects)  
@@ -14,6 +22,7 @@ I'm looking to expand my knowledge in cloud computing and AI, and open to collab
 </details>
 
 ## Projects
+- [SpeedROCm](https://github.com/lukeai-tan/tiktok-techjam-2026) - GPU-optimized Transformer inference using Triton attention kernels
 - [ModMatch](https://github.com/lukeai-tan/ModMatch) - SEP Mod Mapping Tool
 - [Bartender](https://github.com/lukeai-tan/bartender) - Spotify Playlist Transition Engine
 - [Maskerade](https://github.com/lukeai-tan/maskerade) - Privacy filter for faces and sensitive information
