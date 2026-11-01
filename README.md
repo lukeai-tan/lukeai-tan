@@ -22,11 +22,12 @@ I'm looking to expand my knowledge in cloud computing and AI, and open to collab
 </details>
 
 ## Projects
+- [OpenSuite](https://github.com/lukeai-tan/claude-hackathon) - Open source Professional PDF editing and AI-powered presentation design
 - [SpeedROCm](https://github.com/lukeai-tan/tiktok-techjam-2026) - GPU-optimized Transformer inference using Triton attention kernels
 - [ModMatch](https://github.com/lukeai-tan/ModMatch) - SEP Mod Mapping Tool
 - [Bartender](https://github.com/lukeai-tan/bartender) - Spotify Playlist Transition Engine
 - [Maskerade](https://github.com/lukeai-tan/maskerade) - Privacy filter for faces and sensitive information
-- PayMeBack - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
+- [PayMeBack](https://github.com/SSHiroy/paymeback) - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
 - [Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital) - Arknights-inspired Tower Defense Game built with Godot
 
 ## Tech Stack
