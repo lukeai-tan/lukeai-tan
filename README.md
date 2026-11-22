@@ -1,49 +1,21 @@
 # Luke A. Tan
-## About Me
-Hey! I'm Luke, an aspiring software engineer and game developer with a stronger focus on backend development, and a growing curiosity about AI. I also enjoy coding challenges and learning new langauges.\
-I'm looking to expand my knowledge in cloud computing and AI, and open to collaborating on SWE or AI projects. Feel free to reach out via Github.
 
-## Hackathons
-<details>
-  <summary>TikTok TechJam 2026</summary>
+<img src="https://media1.tenor.com/m/__Ah-tEOzLEAAAAC/silksong-hornet.gif" alt="Hornet gliding in Hollow Knight: Silksong" width="280">
 
-**Project:** [Transformer Layer GPU Kernel](https://devpost.com/software/git-commit-m-qa?ref_content=user-portfolio&ref_feature=in_progress) ([GitHub](https://github.com/lukeai-tan/tiktok-techjam-2026))  
-**Description:** Optimized Transformer inference using fused Triton attention kernels and shape-aware execution paths.  
-**Tech:** Python, PyTorch, Triton, CUDA  
+I enjoy building backend tools, experimenting with AI, and making games. I also like coding challenges, performance optimization, and learning new languages.
 
-</details>
-<details>
-  <summary>TikTok TechJam 2025</summary>
-  
-**Project:** [Maskerade](https://devpost.com/software/maskerade-6pb03f?ref_content=my-projects-tab&ref_feature=my_projects)  
-**Description:** Blur or redact faces and sensitive info in images.  
-**Tech:** Python, Flask, OpenCV, face_recognition, presidio-analyzer  
+I'm open to collaborating on software engineering or AI projects.
 
-</details>
+## Hackathon projects
 
-## Projects
-- [OpenSuite](https://github.com/lukeai-tan/claude-hackathon) - Open source Professional PDF editing and AI-powered presentation design
-- [SpeedROCm](https://github.com/lukeai-tan/tiktok-techjam-2026) - GPU-optimized Transformer inference using Triton attention kernels
-- [ModMatch](https://github.com/lukeai-tan/ModMatch) - SEP Mod Mapping Tool
-- [Bartender](https://github.com/lukeai-tan/bartender) - Spotify Playlist Transition Engine
-- [Maskerade](https://github.com/lukeai-tan/maskerade) - Privacy filter for faces and sensitive information
-- [PayMeBack](https://github.com/SSHiroy/paymeback) - App that scans receipts, splits bills and generates PayNow-compliant QR codes for easy payments in SG
-- [Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital) - Arknights-inspired Tower Defense Game built with Godot
+- **[ci-utils](https://github.com/lukeai-tan/ci-utils)** (Builders Buildathon 2026, Blast Radius): Test selection and scheduling. Best practice score: **151.5 s**, with zero missed commits.
+- **[OpenSuite](https://github.com/lukeai-tan/open-suite)**: A desktop workspace for PDF editing and AI-assisted presentation design.
+- **[Transformer Layer GPU Kernel](https://github.com/lukeai-tan/tiktok-techjam-2026)** (TikTok TechJam 2026): Fused Triton attention kernels and shape-aware execution for faster Transformer inference. [Devpost](https://devpost.com/software/git-commit-m-qa)
+- **[ModMatch](https://github.com/lukeai-tan/ModMatch)** (NUS Hack&Roll 2026): Helps NUS students match exchange-university courses to their home modules using semantic similarity.
+- **[Maskerade](https://github.com/lukeai-tan/maskerade)** (TikTok TechJam 2025): Detects and redacts faces and sensitive text in images. [Devpost](https://devpost.com/software/maskerade-6pb03f)
 
-## Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![GDScript](https://img.shields.io/badge/-GDScript-478CBF?logo=godot-engine&logoColor=white)
+## Other projects
 
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-
-**Game Engine:**  
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)
+- **[Nanban Requiem](https://github.com/lukeai-tan/nanban-requiem-orbital)**: An Arknights-inspired tower defense game built with Godot.
+- **[Bartender](https://github.com/lukeai-tan/bartender)**: Organizes Spotify playlists for smooth transitions or contrasting track sequences.
+- **[PayMeBack](https://github.com/SSHiroy/paymeback)**: Scans receipts, splits bills, and generates PayNow QR codes for payments in Singapore.
