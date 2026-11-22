@@ -1,6 +1,8 @@
 # Luke A. Tan
 
-<img src="https://media1.tenor.com/m/__Ah-tEOzLEAAAAC/silksong-hornet.gif" alt="Hornet gliding in Hollow Knight: Silksong" width="280">
+<p align="center">
+  <img src="https://media1.tenor.com/m/MrYny0riRw4AAAAC/hornet-silksong.gif" alt="Hornet dancing in Hollow Knight: Silksong" width="280">
+</p>
 
 I enjoy building backend tools, experimenting with AI, and making games. I also like coding challenges, performance optimization, and learning new languages.
 
